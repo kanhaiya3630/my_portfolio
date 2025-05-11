@@ -44,7 +44,7 @@ nav a:hover {
     box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
 }
 button {
-    background-color: #007bff;
+    background-color: #0e3d3d;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -55,12 +55,12 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #b34500;
     transform: scale(1.05);
 }
 
 body {
-    background: linear-gradient(135deg, #007bff, #ff00ff);
+    background: linear-gradient(135deg, #00fff7, #00ff33);
     background-size: 400% 400%;
     animation: gradientBG 10s ease infinite;
     color: white;
@@ -77,7 +77,7 @@ body {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background: #007bff;
+    background: #104d4a;
     color: white;
     border: none;
     padding: 10px;
@@ -96,8 +96,8 @@ body {
 
 /* Header section */
 header {
-    background-color: #333;
-    color: white;
+    background-color: #50f0ff;
+    color: rgb(28, 24, 24);
     padding: 20px;
 }
 
@@ -143,7 +143,7 @@ section {
 .css { background: #007bff; width: 50%; }
 
 .testimonial {
-    background: #0e0101;
+    background: #0b3979;
     padding: 15px;
     margin: 10px 0;
     border-left: 5px solid #007bff;
